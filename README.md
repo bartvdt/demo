@@ -4,4 +4,4 @@ A readme file
 
 #Heading 2
 
-This causes more troubles
+Add a new line, and proceed on branch
